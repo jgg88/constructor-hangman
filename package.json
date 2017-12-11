@@ -1,0 +1,27 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "Packages used for Constructor Hangman game",
+  "main": "hangman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgg88/constructor-hangman.git"
+  },
+  "keywords": [
+    "constructor",
+    "hangman"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgg88/constructor-hangman/issues"
+  },
+  "homepage": "https://github.com/jgg88/constructor-hangman#readme",
+  "dependencies": {
+    "inquirer": "^4.0.1",
+    "prompt": "^1.0.0"
+  }
+}
